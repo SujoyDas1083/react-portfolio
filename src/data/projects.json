@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Amazon",
+      "imageSrc": "projects/amazon-logo1.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/SujoyDas1083/Amazon"
+    },
+    {
+      "title": "Zomato-with-React",
+      "imageSrc": "projects/Zomato.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS","JavaScript","React"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/SujoyDas1083/Zomato-with-React/tree/main/zomato"
+    },
+    {
+      "title": "Responsive-Landing-Page",
+      "imageSrc": "projects/Landing-Page.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML","CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/SujoyDas1083/Responsive-Landing-Page"
+    },
+    {
+      "title": "UI-UX",
+      "imageSrc": "projects/UI-UX.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Figma"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/SujoyDas1083/UI-UX"
+    }
+  ]
+  
